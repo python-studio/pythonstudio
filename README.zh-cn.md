@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="https://github.com/pygc/pygc/blob/main/src/renderer/src/assets/images/logo-icon.png" alt="PYGC Logo" width="55">
-<img src="https://github.com/pygc/pygc/blob/main/src/renderer/src/assets/images/logo.gif" alt="PYGC Logo" width="200">
+<img src="https://github.com/pygc/pygc/blob/main/doc//logo-icon.png" alt="PYGC Logo" width="55">
+<img src="https://github.com/pygc/pygc/blob/main/doc//logo.gif" alt="PYGC Logo" width="200">
 <img src="https://github.com/pygc/pygc/blob/main/doc/star.jpg" alt="Star" width="60">
 </div>
 
