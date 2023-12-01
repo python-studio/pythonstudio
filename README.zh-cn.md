@@ -26,15 +26,15 @@
 
 📝 **笔记功能**
 
-1. 📖 类似obsidian的Markdown笔记
-2. 🎨 类似obsidian的canvas绘制
-3. 💡 类似Notion的AI文本生成
+1. 📖 类似 obsidian 的 Markdown 笔记
+2. 🎨 类似 obsidian 的 canvas 绘制
+3. 💡 类似 Notion 的 AI 文本生成
 
-🐍 **Python代码功能**
+🐍 **Python 代码功能**
 
 1. 🔍 代码自动补全
-2. 🖥 简洁的Python GUI界面开发
-3. 🤖 通过Python创建和与虚拟人互动的功能
+2. 🖥 简洁的 Python GUI 界面开发
+3. 🤖 通过 Python 创建和与虚拟人互动的功能
 
 ## 🛠️ 开发
 
@@ -47,13 +47,3 @@ yuanjiexiong@gmail.com
 ## Wechat
 
 difsch
-
-## 爱发电
-
-https://afdian.net/a/pygc_dev
-
-<div align="center">
-
-我们期待您的反馈和支持，谢谢您选择 PYGC 项目！
-
-</div>

@@ -44,13 +44,3 @@
 ## Wechat
 
 difsch
-
-## Buy Me A Coffee
-
-https://www.buymeacoffee.com/yuanjiexiong/extras
-
-<div align="center">
-
-We look forward to your feedback and support. Thank you for choosing the PYGC project!
-
-</div>
