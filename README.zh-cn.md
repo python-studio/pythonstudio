@@ -13,17 +13,6 @@
 
 ## 📥 下载地址 [Windows10/Windows11/Ubuntu](https://github.com/pygc/pygc/releases)
 
-## 截图
-
-<!-- 下面几行，英文版需要将zh-CN转为en-US  -->
-<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/home.png" alt="home.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/canvas.png" alt="canvas.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/markdown.png" alt="markdown.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/chatgpt.png" alt="chatgpt.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/python.png" alt="python.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/python-ui.png" alt="python.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/python-chat.png" alt="python.png" width="800">
-
 📝 **笔记功能**
 
 1. 📖 类似 obsidian 的 Markdown 笔记
@@ -47,3 +36,14 @@ yuanjiexiong@gmail.com
 ## Wechat
 
 difsch
+
+## 截图
+
+<!-- 下面几行，英文版需要将zh-CN转为en-US  -->
+<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/home.png" alt="home.png" width="800">
+<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/canvas.png" alt="canvas.png" width="800">
+<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/markdown.png" alt="markdown.png" width="800">
+<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/chatgpt.png" alt="chatgpt.png" width="800">
+<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/python.png" alt="python.png" width="800">
+<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/python-ui.png" alt="python.png" width="800">
+<img src="https://github.com/pygc/pygc/blob/main/doc/zh-CN/python-chat.png" alt="python.png" width="800">
