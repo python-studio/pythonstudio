@@ -25,22 +25,3 @@
 1. 🔍 Code auto-completion
 2. 🖥 Simple Python GUI interface development
 3. 🤖 Functionality for creating and interacting with virtual characters using Python
-
-## 🛠️ Development
-
-[Develop](doc/develop.md)
-
-## Wechat
-
-difsch
-
-## Screenshots
-
-<!-- gpt need to change: zh-CN for Chinese, en-US for English  -->
-<img src="https://github.com/pygc/pygc/blob/main/doc/en-US/home.png" alt="home.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/en-US/canvas.png" alt="canvas.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/en-US/markdown.png" alt="markdown.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/en-US/chatgpt.png" alt="chatgpt.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/en-US/python.png" alt="python.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/en-US/python-ui.png" alt="python-ui.png" width="800">
-<img src="https://github.com/pygc/pygc/blob/main/doc/en-US/python-chat.png" alt="python-chat.png" width="800">
