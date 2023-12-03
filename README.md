@@ -6,11 +6,9 @@
 
 </div>
 
-<!-- 备注：Note为笔记，canvas为白板 -->
+## 🎉 Note + Canvas + Python AIGC 🎉
 
-# 🎉 Note + Canvas + Python AIGC 🎉
-
-# 🎉 笔记 + 白板 + Python AIGC 🎉
+## 🎉 笔记 + 白板 + Python 生成式人工智能 🎉
 
 ## 📥 Download Links [Windows10/Windows11/Ubuntu](https://github.com/pygc/pygc/releases)
 
