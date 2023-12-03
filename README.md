@@ -12,6 +12,8 @@
 
 ## 📥 Download Links [Windows10/Windows11/Ubuntu](https://github.com/pygc/pygc/releases)
 
+## 📥 下载链接 [Windows10/Windows11/Ubuntu](https://github.com/pygc/pygc/releases)
+
 📝 **Note Features**
 
 1. 📖 Markdown note-taking similar to Obsidian
