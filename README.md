@@ -6,7 +6,7 @@
 
 </div>
 
-## 🎉 Note + Canvas + Python AIGC 🎉
+## 🎉 Note + Canvas + Python PUGC 🎉
 
 ## 🎉 笔记 + 白板 + Python 生成式人工智能 🎉
 
