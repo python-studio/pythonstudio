@@ -6,34 +6,32 @@
 
 </div>
 
-## 🎉 Note + Canvas + Python PUGC 🎉
+🎉 Features:
+1. Python Editor
+2. Note Editor
+3. Whiteboard Editor
+4. File Plugin
+5. Browser Plugin
+6. AI Development
+7. UI Development
+8. Data Analysis
+9. Logic Arrangement
+10. Algorithm Development
 
-## 🎉 笔记 + 白板 + Python 生成式人工智能 🎉
+## 🎉 功能：
+1. Python编辑器
+2. 笔记编辑器
+3. 白板编辑器
+4. 文件插件
+5. 浏览器插件
+6. AI开发
+7. 界面
+8. 数据分析
+9. 逻辑编排
+10. 算法开发
 
 ## 📥 Download Links [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
 
 ## 📥 下载链接 [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
 
-📝 **Note Features**
 
-1. 📖 Markdown note-taking similar to Obsidian
-2. 🎨 Canvas drawing similar to Obsidian
-3. 💡 AI text generation like Notion;
-
-🐍 **Python Code Features**
-
-1. 🔍 Code auto-completion
-2. 🖥 Simple Python GUI interface development
-3. 🤖 Functionality for creating and interacting with virtual characters using Python
-
-📝 **笔记功能**
-
-1. 📖 类似 obsidian 的 Markdown 笔记
-2. 🎨 类似 obsidian 的 canvas 绘制
-3. 💡 类似 Notion 的 AI 文本生成
-
-🐍 **Python 代码功能**
-
-1. 🔍 代码自动补全
-2. 🖥 简洁的 Python GUI 界面开发
-3. 🤖 通过 Python 创建和与虚拟人互动的功能
