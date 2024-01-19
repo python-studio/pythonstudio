@@ -6,6 +6,12 @@
 
 </div>
 
+
+## 📥 Download Links [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
+
+## 📥 下载链接 [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
+
+
 🎉 Features:
 1. Python Editor
 2. Note Editor
@@ -29,9 +35,3 @@
 8. 数据分析
 9. 逻辑编排
 10. 算法开发
-
-## 📥 Download Links [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
-
-## 📥 下载链接 [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
-
-
