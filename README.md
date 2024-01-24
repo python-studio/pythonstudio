@@ -11,6 +11,9 @@
 
 ## 📥 下载链接 [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
 
+Welcome to our versatile software! We offer a Python editor, note editor, whiteboard editor, support for file and browser plugins, as well as specialized interfaces and tools for AI development, data analysis, logic flow, and algorithm development. Whether you're a developer, data analyst, or AI engineer, our software can meet your needs and help you accomplish multiple tasks in one place, boosting your productivity!
+
+欢迎使用我们的全能软件！我们提供了Python编辑器、笔记编辑器、白板编辑器，支持文件插件和浏览器插件，还有专门的界面和工具支持AI开发、数据分析、逻辑编排和算法开发。不管您是开发者、数据分析师还是AI工程师，我们的软件都能满足您的需求，让您在一个软件中完成多种任务，提高工作效率！
 
 🎉 Features:
 1. Python Editor
