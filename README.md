@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/pygc/pygc/blob/main/doc//logo-icon.png" alt="PYGC Logo" width="55">
+<img src="https://github.com/pygc/pygc/blob/main/doc//logo-icon.png" alt="PYGC Logo" width="200">
 <img src="https://github.com/pygc/pygc/blob/main/doc//logo.gif" alt="PYGC Logo" width="200">
-<img src="https://github.com/pygc/pygc/blob/main/doc/star.jpg" alt="Star" width="60">
+<br/>
 
 </div>
 
 
 ## 📥 Download Links [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
-
-## 📥 下载链接 [Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
 
 Welcome to our versatile software! We offer a Python editor, note editor, whiteboard editor, support for file and browser plugins, as well as specialized interfaces and tools for AI development, data analysis, logic flow, and algorithm development. Whether you're a developer, data analyst, or AI engineer, our software can meet your needs and help you accomplish multiple tasks in one place, boosting your productivity!
 
