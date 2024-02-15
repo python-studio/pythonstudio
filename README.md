@@ -1,6 +1,9 @@
 # PYGC Software
 
-![PYGC Logo](https://github.com/pygc/pygc/blob/main/doc//logo-icon.png)
+<div align="center">
+<img src="https://github.com/pygc/pygc/blob/main/doc//logo-icon.png" alt="PYGC Logo" width="200">
+
+</div>
 
 ## [Download for Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
 
