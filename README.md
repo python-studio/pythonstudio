@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[Official Website](https://python.studio) | [Download](https://github.com/pygc/pygc/releases)
+[Official Website](https://python.studio) | [Download](https://github.com/pygc/pygc/releases) | [中文版](https://github.com/pygc/python-studio/blob/main/README_CN.md)
 
 </div>
 
