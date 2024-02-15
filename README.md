@@ -1,14 +1,12 @@
-# PYGC: Your All-in-One Software Solution
+# PYGC Software
 
 ![PYGC Logo](https://github.com/pygc/pygc/blob/main/doc//logo-icon.png)
 
 ## [Download for Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
 
-Welcome to PYGC, your versatile software solution. We offer a comprehensive suite of tools and features designed to boost your productivity, whether you're a developer, data analyst, or AI engineer. 
+PYGC is a comprehensive software solution designed to cater to the needs of developers, data analysts, and AI engineers. It provides a range of tools and features that streamline the process of coding, data analysis, and AI development.
 
-Our software includes a Python editor, note editor, and whiteboard editor. It also supports file and browser plugins, and provides specialized interfaces and tools for AI development, data analysis, logic flow, and algorithm development. 
-
-With PYGC, you can accomplish multiple tasks in one place, enhancing your work efficiency!
+The software includes a Python editor, note editor, and whiteboard editor, and supports file and browser plugins. It also offers specialized interfaces and tools for AI development, data analysis, logic flow, and algorithm development.
 
 ## Features:
 1. Python Editor
@@ -24,13 +22,11 @@ With PYGC, you can accomplish multiple tasks in one place, enhancing your work e
 
 ---
 
-# PYGC：您的全能软件解决方案
+# PYGC软件
 
-欢迎使用PYGC，您的全能软件解决方案。我们提供了一套全面的工具和功能，旨在提高您的生产力，无论您是开发者、数据分析师还是AI工程师。
+欢迎使用PYGC，这是一款专为开发者、数据分析师和AI工程师设计的全面软件解决方案。它提供了一系列工具和功能，简化了编码、数据分析和AI开发的过程。
 
-我们的软件包括Python编辑器、笔记编辑器和白板编辑器。它还支持文件和浏览器插件，并提供专门的界面和工具支持AI开发、数据分析、逻辑编排和算法开发。
-
-使用PYGC，您可以在一个地方完成多种任务，提高工作效率！
+该软件包括Python编辑器、笔记编辑器和白板编辑器，并支持文件和浏览器插件。它还提供了专门的界面和工具，用于AI开发、数据分析、逻辑流程和算法开发。
 
 ## 功能：
 1. Python编辑器
