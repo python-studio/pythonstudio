@@ -7,11 +7,13 @@
 
 <div align="center">
 
-[Official Website](https://python.studio) | [Download for Windows10/Windows11/macOS](https://github.com/pygc/pygc/releases)
+[Official Website](https://python.studio) | [Download](https://github.com/pygc/pygc/releases)
 
 </div>
 
 PYGC is a comprehensive software solution designed to cater to the needs of developers, data analysts, and AI engineers. It provides a range of tools and features that streamline the process of coding, data analysis, and AI development.
+
+![screenshot](/doc/screenshot.png)
 
 The software includes a Python editor, Markdown editor, and whiteboard editor, and supports file and browser plugins. It also offers specialized interfaces and tools for AI development, data analysis, logic flow, and algorithm development.
 
