@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="https://github.com/pygc/pygc/blob/main/doc//logo-icon.png" alt="PYGC Logo" width="200">
-<img src="https://github.com/pygc/pygc/blob/main/doc//logo.gif" alt="PYGC Logo" width="200">
+<br/>
+<img src="https://github.com/pygc/pygc/blob/main/doc//logo.gif" alt="PYGC Logo" width="100">
 <br/>
 
 </div>
