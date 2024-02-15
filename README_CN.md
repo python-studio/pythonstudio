@@ -1,4 +1,4 @@
-文档: [https://python.studio](https://python.studio)
+文档: [python.studio](https://python.studio)
 
 
 <div align="center">

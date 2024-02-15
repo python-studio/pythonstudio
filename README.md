@@ -1,4 +1,4 @@
-Doc: [https://python.studio](https://python.studio)
+Doc: [python.studio](https://python.studio)
 
 
 <div align="center">
