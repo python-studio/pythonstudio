@@ -10,6 +10,10 @@ Doc: [python.studio](https://python.studio)
 
 [Official Website](https://python.studio) | [Download](https://github.com/pygc/pygc/releases) | [中文版](https://github.com/pygc/python-studio/blob/main/README_CN.md)
 
+[![Windows](https://badgen.net/badge/support/windows/blue?icon=windows)](https://github.com/pygc/pygc/releases)
+[![Linux](https://badgen.net/badge/support/linux/blue?icon=linux)](https://github.com/pygc/pygc/releases)
+[![Macos](https://badgen.net/badge/support/macos/blue?icon=macos)](https://github.com/pygc/pygc/releases)
+
 </div> 
 
 PYGC is a comprehensive software solution designed to cater to the needs of developers, data analysts, and AI engineers. It provides a range of tools and features that streamline the process of coding, data analysis, and AI development.

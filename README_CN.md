@@ -10,6 +10,10 @@
 
 [官方网站](https://python.studio) | [下载](https://github.com/pygc/pygc/releases) | [English Version](https://github.com/pygc/python-studio/blob/main/README.md)
 
+[![Windows](https://badgen.net/badge/support/windows/blue?icon=windows)](https://github.com/pygc/pygc/releases)
+[![Linux](https://badgen.net/badge/support/linux/blue?icon=linux)](https://github.com/pygc/pygc/releases)
+[![Macos](https://badgen.net/badge/support/macos/blue?icon=macos)](https://github.com/pygc/pygc/releases)
+
 </div>
 
 PYGC 是一款全面的软件解决方案，旨在满足开发人员、数据分析师和 AI 工程师的需求。它提供了一系列工具和功能，简化了编码、数据分析和 AI 开发的过程。
