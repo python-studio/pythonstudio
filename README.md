@@ -23,7 +23,7 @@ PYGC is a comprehensive software solution designed to cater to the needs of deve
 The software includes a Python editor, Markdown editor, and whiteboard editor, and supports file and browser plugins. It also offers specialized interfaces and tools for AI development, data analysis, logic flow, and algorithm development.
 
 ## Features:
-1. 🐍 Python Editor
+1. 🐍 Python Editor with github copilot and LSP
 2. 📝 Markdown Editor
 3. 🖍️ Whiteboard Editor
 4. 📂 File Plugin
