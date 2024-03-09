@@ -1,4 +1,4 @@
-Share your python code and earn money.
+Doc: [python.studio](https://python.studio)
 
 <div align="center">
 <img src="https://github.com/pygc/pygc/blob/main/doc//logo-icon.png" alt="PYGC Logo" width="200">
