@@ -15,7 +15,7 @@ Doc: [python.studio](https://python.studio)
 
 </div> 
 
-PYGC is a comprehensive software solution designed to cater to the needs of developers, data analysts, and AI engineers. It provides a range of tools and features that streamline the process of coding, data analysis, and AI development.
+Python Studio is a comprehensive software solution designed to cater to the needs of developers, data analysts, and AI engineers. It provides a range of tools and features that streamline the process of coding, data analysis, and AI development.
 
 ![screenshot](/doc/screenshot.png)
 
