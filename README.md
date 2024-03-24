@@ -25,10 +25,11 @@ The software includes a Python editor, Markdown editor, and whiteboard editor, a
 1. 🐍 Python Editor with github copilot and LSP
 2. 📝 Markdown Editor
 3. 🖍️ Whiteboard Editor
-4. 📂 File Plugin
-5. 🌐 Browser Plugin
-6. 🤖 AI Development
-7. 🎨 UI Development
-8. 📊 Data Analysis
-9. 🧩 Logic Arrangement
-10. 🧬 Algorithm Development
+4. 📝 Jupyter Notebook
+5. 📂 File Plugin
+6. 🌐 Browser Plugin
+7. 🤖 AI Development
+8. 🎨 UI Development
+9. 📊 Data Analysis
+10. 🧩 Logic Arrangement
+11. 🧬 Algorithm Development
