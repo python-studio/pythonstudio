@@ -1,4 +1,5 @@
-文档: [python.studio](https://python.studio)
+网站: [python.studio](https://python.studio)
+下载：[python.studio](https://github.com/pygc/pygc/releases)
 
 
 <div align="center">
@@ -27,10 +28,11 @@ Python Studio 是一款全面的软件解决方案，旨在满足开发人员、
 2. 📝 Markdown 编辑器
 3. 🖍️ 白板编辑器
 4. 📝 Jupyter Notebook
-5. 📂 文件插件
-6. 🌐 浏览器插件
-7. 🤖 AI 开发
-8. 🎨 UI 开发
-9. 📊 数据分析
-10. 🧩 逻辑排列
-11. 🧬 算法开发
+5. 📝 代码分享中心
+6. 📂 文件插件
+7. 🌐 浏览器插件
+8. 🤖 AI 开发
+9. 🎨 UI 开发
+10. 📊 数据分析
+11. 🧩 逻辑排列
+12. 🧬 算法开发
