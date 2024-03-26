@@ -1,4 +1,5 @@
-Doc: [python.studio](https://python.studio)
+Website: [python.studio](https://python.studio)
+Download:[Download](https://github.com/pygc/pygc/releases)
 
 <div align="center">
 <img src="https://github.com/pygc/pygc/blob/main/doc//logo-icon.png" alt="PYGC Logo" width="200">
@@ -26,10 +27,11 @@ The software includes a Python editor, Markdown editor, and whiteboard editor, a
 2. 📝 Markdown Editor
 3. 🖍️ Whiteboard Editor
 4. 📝 Jupyter Notebook
-5. 📂 File Plugin
-6. 🌐 Browser Plugin
-7. 🤖 AI Development
-8. 🎨 UI Development
-9. 📊 Data Analysis
-10. 🧩 Logic Arrangement
-11. 🧬 Algorithm Development
+5. 📝 Code Share Center!
+6. 📂 File Plugin
+7. 🌐 Browser Plugin
+8. 🤖 AI Development
+9. 🎨 UI Development
+10. 📊 Data Analysis
+11. 🧩 Logic Arrangement
+12. 🧬 Algorithm Development
