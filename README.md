@@ -35,3 +35,7 @@ The software includes a Python editor, Markdown editor, and whiteboard editor, a
 10. 📊 Data Analysis
 11. 🧩 Logic Arrangement
 12. 🧬 Algorithm Development
+
+
+Buymeacoffee:
+https://www.buymeacoffee.com/yuanjiexiong

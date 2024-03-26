@@ -36,3 +36,7 @@ Python Studio 是一款全面的软件解决方案，旨在满足开发人员、
 10. 📊 数据分析
 11. 🧩 逻辑排列
 12. 🧬 算法开发
+
+
+爱发电平台：
+https://afdian.net/a/pythonstudio
